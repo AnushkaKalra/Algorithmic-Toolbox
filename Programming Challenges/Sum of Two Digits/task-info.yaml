@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 220
-        length: 20
+        length: 26
         placeholder_text: write your code here
         initial_state:
           length: 20
@@ -25,4 +25,8 @@ files:
     learner_created: false
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/sLjtY/programming-assignment-1-sum-of-two-digits/discussions
 status: Unchecked
+feedback:
+  message: "Local tests passed, please <a href=\"https://www.coursera.org/learn/algorithmic-toolbox/programming/sLjtY/programming-assignment-1-sum-of-two-digits/submission\"\
+    >submit to Coursera</a>"
+  time: "Mon, 14 Apr 2025 11:04:42 UTC"
 record: -1
